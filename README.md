@@ -7,6 +7,7 @@ Text your name and the Twilio folks will put your name into the raffle
 ## Questions:
 1.  What REALLY happened with project.json??
     1.  Runtime identifiers and how to publish with [ASP.NET Core article on CodeProject](https://www.codeproject.com/Articles/1168100/Build-and-Deploy-Your-ASP-NET-Core-Application)
+    1.  When does support [for project.json expire](https://www.microsoft.com/net/core/support)
 1.  Where is NuGet.config on disk?
     1.  %appdata%\NuGet
 
