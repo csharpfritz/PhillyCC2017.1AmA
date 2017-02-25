@@ -1,0 +1,10 @@
+version: '2'
+
+services:
+  dockerin2015:
+    image: user/dockerin2015${TAG}
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "80"
