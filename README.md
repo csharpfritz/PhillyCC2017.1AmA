@@ -20,6 +20,8 @@ Text your name and the Twilio folks will put your name into the raffle
 
 1.  Any changes to async syntax and behavior? (C# language feature)
 1.  Do I need to learn C# when I already know Visual Basic?  What about Visual Basic support for .NET Core?
+    1.  [.NET Language strategy](https://blogs.msdn.microsoft.com/dotnet/2017/02/01/the-net-language-strategy/)
+    1.  [Visual Basic strategy](https://blogs.msdn.microsoft.com/vbteam/2017/02/01/digging-deeper-into-the-visual-basic-language-strategy/)
 
 1.  Unit test frameworks for .NET Core - mstest able to support core, what are the plans?
 1.  Tools:  what's going RTM with the latest release, and what is still coming as a patch of an update after the fact?
