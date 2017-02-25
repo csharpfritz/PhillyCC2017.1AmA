@@ -15,6 +15,8 @@ Text your name and the Twilio folks will put your name into the raffle
 
 1.  Can I run an ASP.NET Core service in Docker using Visual Studio 2015?
 1.  How does the dotnet CLI command actually work?  How do you build subcommands and how do they know when to work? ++
+    1. See docs:  https://docs.microsoft.com/en-us/dotnet/articles/core/tools/extensibility
+    1.  Check out the "broken sample" dotnet-environment
 
 1.  Any changes to async syntax and behavior? (C# language feature)
 1.  Do I need to learn C# when I already know Visual Basic?  What about Visual Basic support for .NET Core?
