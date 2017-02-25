@@ -6,6 +6,10 @@ Text your name and the Twilio folks will put your name into the raffle
 
 ## Questions:
 1.  What REALLY happened with project.json??
+    1.  Runtime identifiers and how to publish with [ASP.NET Core article on CodeProject](https://www.codeproject.com/Articles/1168100/Build-and-Deploy-Your-ASP-NET-Core-Application)
+1.  Where is NuGet.config on disk?
+    1.  %appdata%\NuGet
+
 1.  How does the versioning for .NET get decided, ex: changed from 1.2 to 2.0
 
 1.  Can I run an ASP.NET Core service in Docker using Visual Studio 2015?
