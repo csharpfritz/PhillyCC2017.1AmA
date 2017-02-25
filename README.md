@@ -28,6 +28,8 @@ Text your name and the Twilio folks will put your name into the raffle
 
 1.  Inconsistencies in documentation / support materials online when new version of .NET Core are released [comment]
 
+1.  Azure web apps - if I build with ASP.NET Core can I deploy to Azure Web Apps?
+
 ## Samples shown are included in the Samples child folder
 
 
